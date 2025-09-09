@@ -138,4 +138,5 @@ Without analysis, pizza chains struggle to:
 ## 👨‍💻 Author & Contact
 **Ujjwal Verma**  
 📧 Email: ujjwalv699@gmail.com  
-🔗 LinkedIn
+[🔗 LinkedIn](https://www.linkedin.com/in/ujjwal-verma-28732423b/?trk=opento_sprofile_topcard)
+
